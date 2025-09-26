@@ -1,0 +1,128 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "MAINTENANCE_MODE": false,
+    "iconUnsend": {
+        "status": true,
+        "icon": "👍"
+    },
+    "notiGroup": false,
+    "NOTIFICATION": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "autoClean": true,
+    "ACCESSTOKEN": "",
+    "BOTNAME": "Yunz",
+    "AMDIN_NAME": "Lưu Đắc Hồng",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/1B98Zzmtpu/",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "61556655984912",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100071846618093",
+        "61571619034641"
+    ],
+    "NDH": [
+        "61556655984912"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "2.7.12",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        },
+        "delayUnsend": 60
+    },
+    "log": {
+        "enable": true
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 1000000
+    },
+    "anti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "adminOnly": false,
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "cave": {
+        "cooldownTime": 86400
+    },
+    "farm": {
+        "cooldownTime": 300000
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "ndhOnly": false,
+    "cavee": {
+        "cooldownTime": 100000
+    },
+    "tutien": {
+        "autoUnsend": true,
+        "timeUnsend": 60,
+        "failRateByRealm": {
+            "Luyện Khí": 5,
+            "Trúc Cơ": 10,
+            "Khai Quang": 15,
+            "Kim Đan": 20,
+            "Nguyên Anh": 25,
+            "Hóa Thần": 30,
+            "Phản Hư": 35,
+            "Luyện Hư": 40,
+            "Hợp Thể": 45,
+            "Đại Thừa": 50,
+            "Độ Kiếp": 55,
+            "Thiên Tiên": 60,
+            "Chân Tiên": 65,
+            "Kim Tiên": 70,
+            "Thánh Nhân": 75,
+            "Đại Thánh": 80,
+            "Tiên Đế": 85,
+            "Tiên Tôn": 90,
+            "Hỗn Độn": 95,
+            "Vô Cực": 97,
+            "Chúa Tể Đại Thế Giới": 99
+        }
+    },
+    "cauca": {
+        "cooldownTime": 5,
+        "APIKEY": ""
+    }
+}
