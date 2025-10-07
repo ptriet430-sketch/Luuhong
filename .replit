@@ -1,0 +1,2 @@
+[nix]
+packages = ["q-text-as-data"]
