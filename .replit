@@ -1,2 +1,5 @@
 [nix]
 packages = ["q-text-as-data"]
+
+[agent]
+expertMode = true
